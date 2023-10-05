@@ -5,7 +5,7 @@
 
 ## Goals
 Using Puppeteer
-* Pull a list of tasks from https://trello.com
+* Pull a list of tasks from https://trello.com/b/QvHVksDa/personal-work-goals
 * Login into todoist.com
 	* username: manoel.balam@gmail.com
 	* password: m4n03l#B4l4m
